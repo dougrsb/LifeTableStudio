@@ -4,8 +4,7 @@ Interactive tool for life table construction and analysis, with automatic graph 
 
 ## Highlights (v2)
 - IDE-style interface with tabs: **Data**, **Results**, **Charts**, **Console**
-- **Bilingual PT/EN** (toggle in the top menu)
-- Buttons: **Download template (PT/EN)**, **Spreadsheet instructions**, **Open filled spreadsheet…**, **Run analysis**, **Export results (Excel)**
+- Buttons: **Download template**, **Spreadsheet instructions**, **Open filled spreadsheet…**, **Run analysis**, **Export results (Excel)**
 - Charts: **Lx, Mx, ex** (individual and overlay), export to **PNG/JPG/EPS** (300/600 dpi)
 - **Export ALL**: creates `figures/`, optional `results.xlsx`, plus **PDF** and **ZIP** bundles
 
