@@ -1,0 +1,1 @@
+flet run --web main.py

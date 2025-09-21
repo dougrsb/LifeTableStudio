@@ -1,0 +1,1 @@
+flet pack main.py --name LifeTableStudio --icon assets\app.ico

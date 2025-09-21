@@ -1,0 +1,7 @@
+flet==0.24.1
+pandas>=2.0
+numpy>=1.25
+openpyxl>=3.1
+xlsxwriter>=3.1
+matplotlib>=3.8
+Pillow>=10.0
